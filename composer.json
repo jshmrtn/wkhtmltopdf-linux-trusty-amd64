@@ -1,0 +1,20 @@
+{
+    "name": "jshmrtn/wkhtmltopdf-linux-trusty-amd64",
+    "description": "wkhtmltopdf | OS X | >= 10.6 | 64bit",
+    "keywords": ["pdf", "thumbnail", "snapshot", "wkhtmltopdf", "convert", "binary"],
+    "license": "LGPL Version 3",
+    "homepage": "http://wkhtmltopdf.org/",
+    "authors": [
+        {
+            "name": "Jeremy J. Zahner",
+            "email": "zahner@joshmartin.ch"
+        }
+    ],
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/wkhtmltopdf-linux-trusty-amd64",
+        "bin/wkhtmltoimage-linux-trusty-amd64"
+    ],
+    "require": {
+    }
+}
